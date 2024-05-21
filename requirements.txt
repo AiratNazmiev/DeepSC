@@ -1,0 +1,6 @@
+torch
+nltk
+w3lib
+tqdm
+scikit-learn
+bert4keras

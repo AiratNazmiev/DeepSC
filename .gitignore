@@ -1,0 +1,23 @@
+#python 
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
+/__pycache__/*
+
+# virtual enviornment
+/.env/*
+/.idea/*
+
+# models
+checkpoints/
+/checkpoints/deepsc-AWGN/*
+/checkpoints/deepsc-mi-awgn/*
+/checkpoints/deepsc-mi/Rayleigh/*
+/checkpoints/deepsc-Rayleigh/* 
+
+data
+
+*.ckpt
